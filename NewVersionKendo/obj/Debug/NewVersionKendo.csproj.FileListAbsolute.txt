@@ -1,0 +1,558 @@
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\ApplicationInsights.config
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\csc.exe
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\csc.exe.config
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\csc.rsp
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\csi.exe
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\csi.rsp
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CSharp.Core.targets
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\System.AppContext.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\System.Collections.Immutable.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\System.IO.FileSystem.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\System.Reflection.Metadata.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\vbc.exe
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\vbc.exe.config
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\vbc.rsp
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\VBCSCompiler.exe
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\roslyn\VBCSCompiler.exe.config
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\OldVersionKendo.dll.config
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\OldVersionKendo.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\OldVersionKendo.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Antlr3.Runtime.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\AutoMapper.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.Core.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\DataAnnotationsExtensions.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Dynamic.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\EntityFramework.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\ExpressionEvaluator.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\FUMS.DataContract.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\GOVIL.Wcf.Extensions.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\ICSharpCode.SharpZipLib.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\JSNLog.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Kendo.Mvc.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.Agent.Intercept.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.DependencyCollector.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.PerfCounterCollector.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.Web.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.WindowsServer.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.ApplicationInsights.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AspNet.SignalR.Client.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Owin.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Web.Infrastructure.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Web.Optimization.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.Client.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.Client.Redis.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.Contracts.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.PubSub.Blocks.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.PubSub.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.GenericDocuments.Contracts.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.GenericDocuments.Entities.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.GenericDocuments.Resources.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.GenericDocuments.UI.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.GenericModule.Common.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.DataAnnotations.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.MVC.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.MVCPermissions.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Log.Extension.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Mail.UpdateUnit.DataContract.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.PDO.Common.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.PDO.MVC.Shared.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.PDO.WebSite.Contracts.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Redis.Cache.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.ResourceAccess.Documentum.Data.Contracts.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Newtonsoft.Json.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NLog.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NLog.Extended.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NPOI.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NPOI.OOXML.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NPOI.OpenXml4Net.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NPOI.OpenXmlFormats.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Owin.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\StackExchange.Redis.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Diagnostics.DiagnosticSource.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Net.Http.Formatting.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Helpers.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Http.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Http.WebHost.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Mvc.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Optimization.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Razor.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Deployment.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.WebPages.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Razor.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\WcfContrib.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\WebActivatorEx.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\WebGrease.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.PDO.Shared.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\AutoMapper.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.Core.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.Core.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\EntityFramework.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\JSNLog.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.DependencyCollector.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.PerfCounterCollector.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.Web.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AI.WindowsServer.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.ApplicationInsights.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Owin.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.Client.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.Client.Redis.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.Contracts.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.PubSub.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Core.PubSub.Blocks.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Log.Extension.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.PDO.Common.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.PDO.MVC.Shared.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.PDO.WebSite.Contracts.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.Redis.Cache.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Newtonsoft.Json.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NLog.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NLog.Extended.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\NPOI.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\StackExchange.Redis.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Diagnostics.DiagnosticSource.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Net.Http.Formatting.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Helpers.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Http.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Http.WebHost.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Mvc.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.Razor.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.WebPages.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Deployment.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Razor.xml
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\Moj.PDO.Shared.pdb
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\en-IE\Moj.Infrastructure.DataAnnotations.resources.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\bin\en-IE\Moj.Infrastructure.MVC.resources.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\obj\Debug\NewVersionKendo.csprojResolveAssemblyReference.cache
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\obj\Debug\OldVersionKendo.dll
+\\main-jr-fs5\users$\ORYANS\My Documents\Visual Studio 2017\Projects\OldVersionKendo\NewVersionKendo\obj\Debug\OldVersionKendo.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\ApplicationInsights.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.exe
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.exe.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.rsp
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\csi.exe
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\csi.rsp
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CSharp.Core.targets
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\System.AppContext.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Collections.Immutable.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\System.IO.FileSystem.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Reflection.Metadata.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.exe
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.exe.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.rsp
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\VBCSCompiler.exe
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\roslyn\VBCSCompiler.exe.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.dll.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Antlr3.Runtime.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\AutoMapper.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\DataAnnotationsExtensions.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Dynamic.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\EntityFramework.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\ExpressionEvaluator.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\FUMS.DataContract.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\GOVIL.Wcf.Extensions.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\ICSharpCode.SharpZipLib.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\JSNLog.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Kendo.Mvc.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Agent.Intercept.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.DependencyCollector.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.PerfCounterCollector.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Web.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.WindowsServer.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.ApplicationInsights.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AspNet.SignalR.Client.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Owin.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Web.Infrastructure.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Web.Optimization.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.Client.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.Client.Redis.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.Contracts.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.PubSub.Blocks.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.PubSub.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.GenericDocuments.Contracts.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.GenericDocuments.Entities.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.GenericDocuments.Resources.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.GenericDocuments.UI.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.GenericModule.Common.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.DataAnnotations.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.MVC.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.MVCPermissions.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Log.Extension.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Mail.UpdateUnit.DataContract.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.Common.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.MVC.Shared.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.WebSite.Contracts.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Redis.Cache.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.ResourceAccess.Documentum.Data.Contracts.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Newtonsoft.Json.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NLog.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NLog.Extended.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NPOI.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NPOI.OOXML.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NPOI.OpenXml4Net.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NPOI.OpenXmlFormats.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Owin.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\StackExchange.Redis.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Net.Http.Formatting.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Helpers.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.WebHost.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Mvc.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Optimization.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Razor.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Deployment.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Razor.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\WcfContrib.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\WebActivatorEx.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\WebGrease.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.Shared.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\AutoMapper.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\EntityFramework.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\JSNLog.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\JSNLog.dll.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.DependencyCollector.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.PerfCounterCollector.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Web.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.WindowsServer.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.ApplicationInsights.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Owin.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.Client.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.Client.Redis.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.Contracts.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.PubSub.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Core.PubSub.Blocks.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Log.Extension.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Log.Extension.dll.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.Common.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.MVC.Shared.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.MVC.Shared.dll.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.WebSite.Contracts.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.Redis.Cache.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Newtonsoft.Json.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NLog.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NLog.Extended.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\NPOI.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\StackExchange.Redis.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Net.Http.Formatting.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Helpers.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.WebHost.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Mvc.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.Razor.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Deployment.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Razor.xml
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.Shared.pdb
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\Moj.PDO.Shared.dll.config
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\en-IE\Moj.Infrastructure.DataAnnotations.resources.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\bin\en-IE\Moj.Infrastructure.MVC.resources.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\obj\Debug\NewVersionKendo.csprojResolveAssemblyReference.cache
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\obj\Debug\OldVersionKendo.dll
+\\main-jr-fs5\users$\oryans\my documents\visual studio 2017\Projects\NewVersionKendo\NewVersionKendo\obj\Debug\OldVersionKendo.pdb
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\ApplicationInsights.config
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.exe
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.exe.config
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.rsp
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csi.exe
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csi.rsp
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.AppContext.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Collections.Immutable.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.IO.FileSystem.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.exe
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.exe.config
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.rsp
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\VBCSCompiler.exe
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\VBCSCompiler.exe.config
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.dll.config
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.pdb
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Antlr3.Runtime.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\AutoMapper.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\DataAnnotationsExtensions.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Dynamic.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\EntityFramework.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\ExpressionEvaluator.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\FUMS.DataContract.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\GOVIL.Wcf.Extensions.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\ICSharpCode.SharpZipLib.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\JSNLog.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Kendo.Mvc.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Web.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.WindowsServer.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.ApplicationInsights.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AspNet.SignalR.Client.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Owin.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Web.Infrastructure.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Web.Optimization.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.DataAnnotations.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.MVC.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.MVCPermissions.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Newtonsoft.Json.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NLog.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NLog.Extended.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.OOXML.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.OpenXml4Net.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.OpenXmlFormats.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Owin.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\StackExchange.Redis.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Net.Http.Formatting.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Helpers.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.WebHost.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Mvc.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Optimization.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Razor.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Deployment.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Razor.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\WcfContrib.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\WebActivatorEx.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\WebGrease.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\AutoMapper.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.pdb
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.pdb
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.pdb
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\EntityFramework.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\JSNLog.pdb
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\JSNLog.dll.config
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Web.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.WindowsServer.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.ApplicationInsights.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Owin.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Newtonsoft.Json.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NLog.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NLog.Extended.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\StackExchange.Redis.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Net.Http.Formatting.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Helpers.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.WebHost.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Mvc.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Razor.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Deployment.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Razor.xml
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\en-IE\Moj.Infrastructure.DataAnnotations.resources.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\en-IE\Moj.Infrastructure.MVC.resources.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\obj\Debug\NewVersionKendo.csprojResolveAssemblyReference.cache
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\obj\Debug\OldVersionKendo.dll
+D:\Dev\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\obj\Debug\OldVersionKendo.pdb
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\ApplicationInsights.config
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.exe
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.exe.config
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csc.rsp
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csi.exe
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\csi.rsp
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.CSharp.Core.targets
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.AppContext.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Collections.Immutable.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.IO.FileSystem.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\System.Reflection.Metadata.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.exe
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.exe.config
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\vbc.rsp
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\VBCSCompiler.exe
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\roslyn\VBCSCompiler.exe.config
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.dll.config
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\OldVersionKendo.pdb
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Antlr3.Runtime.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\AutoMapper.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\DataAnnotationsExtensions.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Dynamic.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\EntityFramework.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\ExpressionEvaluator.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\FUMS.DataContract.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\GOVIL.Wcf.Extensions.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\ICSharpCode.SharpZipLib.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\JSNLog.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Kendo.Mvc.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Agent.Intercept.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.DependencyCollector.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.PerfCounterCollector.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Web.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.WindowsServer.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.ApplicationInsights.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AspNet.SignalR.Client.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Owin.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Web.Infrastructure.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Web.Optimization.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.DataAnnotations.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.MVC.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Moj.Infrastructure.MVCPermissions.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Newtonsoft.Json.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NLog.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NLog.Extended.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.OOXML.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.OpenXml4Net.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.OpenXmlFormats.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Owin.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\StackExchange.Redis.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Net.Http.Formatting.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Helpers.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.WebHost.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Mvc.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Optimization.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Razor.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Deployment.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Razor.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\WcfContrib.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\WebActivatorEx.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\WebGrease.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\AutoMapper.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.pdb
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.pdb
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.Core.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.pdb
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Common.Logging.NLog20.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\EntityFramework.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\JSNLog.pdb
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\JSNLog.dll.config
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.DependencyCollector.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.PerfCounterCollector.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.Web.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.AI.WindowsServer.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.ApplicationInsights.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Owin.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\Newtonsoft.Json.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NLog.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NLog.Extended.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\NPOI.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\StackExchange.Redis.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Net.Http.Formatting.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Helpers.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Http.WebHost.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Mvc.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.Razor.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Deployment.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\System.Web.WebPages.Razor.xml
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\en-IE\Moj.Infrastructure.DataAnnotations.resources.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\bin\en-IE\Moj.Infrastructure.MVC.resources.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\obj\Debug\NewVersionKendo.csprojAssemblyReference.cache
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\obj\Debug\NewVersionKendo.csproj.CoreCompileInputs.cache
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\obj\Debug\NewVersionKendo.csproj.CopyComplete
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\obj\Debug\OldVersionKendo.dll
+\\pc-64425\KendoSyncReadyR&D\NewVersionKendo\NewVersionKendo\obj\Debug\OldVersionKendo.pdb
